@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+# raw LSA64 dataset -- 1.7GB, third-party, redownloadable via process_lsa64.py's
+# instructions in the README rather than committed here
+lsa64_raw/
+
+# throwaway sanity-check outputs from setup, not project deliverables
+webcam_test.jpg
+landmarks_test.jpg
+demo_output_preview.jpg
