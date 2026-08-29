@@ -2,10 +2,6 @@
 
 Recognizes 10 signs from the [LSA64](https://facundoq.github.io/datasets/lsa64/) (Argentinian Sign Language) dataset from hand-landmark sequences, using MediaPipe for hand tracking and an LSTM for temporal classification.
 
-![demo](demo.gif)
-
-*(replayed from a held-out test video the model never trained on — green text = correct prediction)*
-
 ## Pipeline
 
 ```
